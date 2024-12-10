@@ -21,6 +21,6 @@ Welcome to SpeedSentry! This project is developed in Kotlin using Android Studio
 We are open to contributions! Feel free to fork the repository, make changes, and submit pull requests.
 
 ## Team
-  - **Vedika Lohiya** [![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/vedika2203/) [![Email](https://img.icons8.com/ios-filled/50/000000/email.png)](mailto:vedika.lohiya22@gmail.com)
+   **Vedika Lohiya** [![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/vedika2203/) [![Email](https://img.icons8.com/ios-filled/50/000000/email.png)](mailto:vedika.lohiya22@gmail.com)
 
 Thank you for your interest and contributions!
